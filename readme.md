@@ -114,3 +114,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - Plots confusion matrices using `matplotlib` and `seaborn`.
 - **Dependencies**: `tensorflow`, `keras`, `numpy`, `sklearn`, `time`, `matplotlib`, `seaborn`.
 - **Notes**: Assumes the test data is in `DevanagariHandwrittenCharacterDataset/Test`. The script generates visual outputs (confusion matrices).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE] file for details.
+
+---
+## Contact
+
+📧 Email: srirajsarkar2000@gmail.com
