@@ -123,3 +123,9 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 ## Contact
 
 📧 Email: srirajsarkar2000@gmail.com
+
+---
+
+*Built with ❤️ by Sriraj in September 2024.
+
+---
