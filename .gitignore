@@ -1,0 +1,15 @@
+# Ignore the dataset folder
+Devanagari-Handwritten-Character-Dataset/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you have one)
+venv/
+.env
+
+# Ignore other common files
+*.log
+*.pkl
+*.h5
