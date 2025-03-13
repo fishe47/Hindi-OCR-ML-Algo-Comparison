@@ -126,6 +126,6 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 
 ---
 
-*Built with ❤️ by Sriraj in September 2024.
+## Built with ❤️ by Sriraj in September 2024.
 
 ---
