@@ -1,4 +1,4 @@
-g# Hindi OCR ML Algorithm Comparison
+## Hindi OCR ML Algorithm Comparison
 
 This project compares various machine learning algorithms for Optical Character Recognition (OCR) of handwritten Hindi (Devanagari) characters. The goal is to evaluate the performance of CNN, LightGBM, and XGBoost models on the `Devanagari-Handwritten-Character-Dataset`.
 
@@ -114,4 +114,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - Plots confusion matrices using `matplotlib` and `seaborn`.
 - **Dependencies**: `tensorflow`, `keras`, `numpy`, `sklearn`, `time`, `matplotlib`, `seaborn`.
 - **Notes**: Assumes the test data is in `DevanagariHandwrittenCharacterDataset/Test`. The script generates visual outputs (confusion matrices).
-```
